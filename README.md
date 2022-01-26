@@ -5,7 +5,7 @@ Simple instruction to run this APP.
 PHP   >= 7.4.26
 MySQL >= 5.1
 
-1. git clone https://github.com/ritshidze/the-pro-app.git
+1. git clone https://github.com/ritshidze/l8-crud-app.git
 
    - composer install
    - composer dump-autoload
